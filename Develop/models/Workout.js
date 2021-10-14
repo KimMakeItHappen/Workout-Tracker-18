@@ -36,15 +36,7 @@ const workOutPlan = new Schema ({
         }
     ]
 },
-{
-    toJSON: {virtuals: true}
-});
-
-workOutPlan.virtual("totalDuration").get(function() {
-    return this.exercises.reduce((total, value) => {
-        return total + value.duration;
-    },0);
-});
+);
 
 
 const Workout = mongoose.model('Workout', workOutPlan);
