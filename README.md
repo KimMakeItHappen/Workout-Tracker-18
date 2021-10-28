@@ -5,8 +5,6 @@
 * User Story
 * Business Context
 * Acceptance Criteria
-* Installation
-* Usage
 * Mock-Up
 * Questions
 
@@ -18,3 +16,26 @@
 
 * A consumer will reach their fitness goals more quickly when they track their workout progress.
 
+## Acceptance Criteria
+
+* The user should be able to:
+
+
+Add exercises to the most recent workout plan.
+
+
+Add new exercises to a new workout plan.
+
+
+View the combined weight of multiple exercises from the past seven workouts on the stats page.
+
+
+View the total duration of each workout from the past seven workouts on the stats page.
+
+## Mock-Up
+
+YouTube: https://www.youtube.com/watch?v=Ynn4OrIcVkA
+
+## Questions
+
+Any Questions or concerns please reach out to me via Email Kperez22692@gmail.com
